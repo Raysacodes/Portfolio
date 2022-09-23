@@ -8,7 +8,7 @@ A fictional multi-page responsive portfolio website for Raysa Alvarez which is b
 •	CSS
 •	Javascript
  
-Visit the
+Visit the link 
 
 
 # Future Improvements:
@@ -25,4 +25,4 @@ Visit the
 •	Contact me on twitter.
 
 
-# Any queries, suggestions, issues to report or critics are welcome :) You can freely connect to me.
+Any queries, suggestions, issues to report or critics are welcome :) You can freely connect to me.
