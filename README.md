@@ -1,6 +1,6 @@
 # Raysa Alvarez Portfolio
 
-A fictional multi-page responsive portfolio website for Raysa Alvarez which is built with Sass.
+A multi-page responsive portfolio website for Raysa Alvarez which is built with css.
 
 # Built with:
 
