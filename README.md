@@ -18,7 +18,7 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 •	CSS
 
  
-Visit the link 
+Visit the link https://github.com/Raysacodes/Portfolio
 
 
 # Future Improvements:
