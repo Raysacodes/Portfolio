@@ -16,7 +16,7 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 
 •	HTML
 •	CSS
-•	Javascript
+
  
 Visit the link 
 
